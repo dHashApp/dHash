@@ -6,7 +6,7 @@
 release(2019/09/04):  
 https://github.com/dHashApp/dHash/releases/tag/v0.1.5
 
-release(2019/08/01): 
+release(2019/08/01):  
 ~~https://github.com/dHashApp/dHash/releases/tag/v0.1.3~~
 
 release:  
